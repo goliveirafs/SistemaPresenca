@@ -1,11 +1,10 @@
-var config = {
-  apiKey: "AIzaSyBJBfJ1OvtI7ZfQkQx1KRNlVBchvJUF5L4",
-  authDomain: "sistemaoctogono-7547f.firebaseapp.com",
-  projectId: "sistemaoctogono-7547f",
-  storageBucket: "sistemaoctogono-7547f.appspot.com",
-  messagingSenderId: "257761230832",
-  appId: "1:257761230832:web:afcb563296604330cba735",
-  measurementId: "G-0FEK7TFH8H",
+const config = {
+  apiKey: "AIzaSyDTVuDV0-cK9Nk6OvRV3IO8f563nPXTjuY",
+  authDomain: "sistemaoctogono.firebaseapp.com",
+  projectId: "sistemaoctogono",
+  storageBucket: "sistemaoctogono.appspot.com",
+  messagingSenderId: "415747300285",
+  appId: "1:415747300285:web:2ae6ae2d51eefc7e1950d4",
 };
 
 firebase.initializeApp(config);
